@@ -21,8 +21,7 @@ In my spare time, I enjoy investing in people and ideas through a small venture 
 - Running
 - Skiing
 - Sailing and the sea
-- Space
-- Summer
+- Swimming
 - Books
 - Photography
 
