@@ -1,6 +1,6 @@
 # Intro
 
-As a Senior developer, I've contributed to full software development life cycle and 
+As a Senior developer, I've contributed to software development life cycle and 
 I'm a Creative and solutions-focused full-stack developer with the talent for turning brilliant ideas into reality and the
 commitment to delivering high-quality, maintainable code. 
 

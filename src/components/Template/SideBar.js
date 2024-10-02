@@ -13,7 +13,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Christopher. and I have 12 years of experience
-        as a senior full-stack developer to build the business platforms
+        as a Senior full-stack developer to build the business platforms
       </p>
     </section>
   </section>
