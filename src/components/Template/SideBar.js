@@ -12,10 +12,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Christopher. I am a co-founder and CTO. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        Hi, I&apos;m Christopher. and I have 12 years of experience
+        as a senior full-stack developer to build the business platforms
       </p>
     </section>
   </section>
