@@ -15,6 +15,7 @@ In my spare time, I enjoy investing in people and ideas through a small venture 
 - Golang 8 years
 - Blockchain 8 years
 - Aws 11 years
+- Devops 6 years
 
 # I Like
 
