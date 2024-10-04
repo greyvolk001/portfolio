@@ -18,13 +18,6 @@ const About = () => {
   return (
     <Main title="About" description="Learn about Christopher Chu">
       <article className="post markdown" id="about">
-        <header>
-          <div className="title">
-            <h2>
-              <Link to="/">skill set</Link>
-            </h2>
-          </div>
-        </header>
         <Markdown>{markdown}</Markdown>
       </article>
     </Main>
