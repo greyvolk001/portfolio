@@ -4,7 +4,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <header>
-        <h2>Christopher Chu</h2>
+        <h2>Thomas Andersen</h2>
         <p>Hohlstrasse 6, 8048, Zurich, Switzerland</p>
       </header>
     </section>
