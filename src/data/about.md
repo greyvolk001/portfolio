@@ -1,47 +1,33 @@
 ## Intro
 
-- Participated in technical assessment, scoping, and management of changes
-to the code based on new business requirements, product enhancements
-and other change requests.
-- Collaborated with the development team to produce high-quality,
-maintainable and scalable software.
-- Maintained coding standards and participate in peer code reviews.
-- Analyzed requirements, collaborated with the architect, and lead to produce
-thoughtful software designs.
-- Worked with bunch of services to be integrated by using Python/Node.js
-(stripe, paypal, facebook, twitter, google apis)
-- Built RESTful API endpoints by using DRF(Django Rest Framework), Flask,
-FastAPI, and AWS Lambda (Python or Javascript) for frontend/ mobile
-applications.
-- Managed all the Dev-Ops related work on AWS including EC2, S3, Cloud Front
-CDN, Lightsail, IAM and have worked with AWS Lambda, Amplify, SageMaker,
-etc.
-- Worked with Jenkins for CI/CD pipelines.
-- Worked with software containerization platforms like Docker and container
-orchestration tools like Kubernetes and Docker Swarm
-- Worked with RDBMS and NoSQL such as MySQL, MariaDB, PostgreSQL,
-MongoDB and AWS DynamoDB, etc.
-- Have used PHP/Laravel for some projects based on OOP design pattern to
-build CRM rojects
+- Played a key role in developing and optimizing software solutions to meet evolving business requirements and improve user experiences.
+- Designed and built scalable RESTful APIs using Python frameworks such as Django, Flask, and FastAPI, ensuring seamless backend integration.
+- Integrated external services, including payment gateways like Stripe, PayPal, and social media APIs, to enhance functionality and improve user interaction.
+- Collaborated with cross-functional teams to design and implement responsive user interfaces with React, Next.js, and Vue, ensuring smooth interaction between frontend and backend.
+- Managed and optimized CI/CD pipelines with Jenkins and GitHub Actions, automating deployments and reducing manual intervention in the development workflow.
+- Deployed applications to AWS, utilizing EC2, Lambda, S3, and CloudFront to ensure scalability, high availability, and efficient data delivery.
+- Leveraged Docker and Kubernetes for containerization and orchestration, simplifying deployment and scaling of applications across different environments.
+- Worked with a variety of databases, including MySQL, PostgreSQL, MongoDB, and DynamoDB, to build reliable and high-performance data storage solutions.
+- Ensured high-quality code by implementing comprehensive unit and integration tests using Pytest, Jest, and Selenium, which improved code stability and performance.
+- Collaborated with development and product teams to deliver high-quality, maintainable, and scalable systems in an Agile environment.
 
 ## Skills
 
-- Python : 12 years
-- Django : 10 years
-- Javascript : 12 years
-- React : 9 years
-- Golang : 8 years
-- Blockchain : 8 years
-- Amazon Web Services : 11 years
+- Python : 10 years
+- Django : 9 years
+- Javascript : 10 years
+- React : 8 years
+- Golang : 2 years
+- Blockchain : 5 years
+- Amazon Web Services : 10 years
 - Agile Development : 10 years
 - Devops : 6 years
-- Database : 12 years
+- Database : 10 years
 
 ## I Like
 
-- Running
-- Skiing
-- Sailing and the sea
-- Swimming
-- Books
-- Photography
+- Fishing with my son
+- Social Networking
+- Reading
+- Photographing
+- Gaming
