@@ -5,7 +5,7 @@ const SideBar = () => (
     <section id="intro">
       <header>
         <h2>Thomas Andersen</h2>
-        <p>P. Knudsens Gade 10, Copenhagen, Denmark</p>
+        <p>Laipu iela 20, Riga, Latvia</p>
       </header>
     </section>
 
