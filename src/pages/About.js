@@ -16,7 +16,7 @@ const About = () => {
   });
 
   return (
-    <Main title="About" description="Learn about Thomas Andersen">
+    <Main title="About" description="Learn about Vadym Tarasenko">
       <article className="post markdown" id="about">
         <Markdown>{markdown}</Markdown>
       </article>

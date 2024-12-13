@@ -12,7 +12,7 @@ const Navigation = () => (
         .filter((l) => l.index)
         .map((l) => (
           <Link key={l.label} to={l.path}>
-            Thomas Andersen
+            Vadym Tarasenko
           </Link>
         ))}
     </h1>
@@ -22,7 +22,7 @@ const Navigation = () => (
           .filter((l) => !l.index)
           .map((l) => (
             <li key={l.label}>
-              <Link to={l.path}>Thomas Andersen</Link>
+              <Link to={l.path}>Vadym Tarasenko</Link>
             </li>
           ))}
       </ul>

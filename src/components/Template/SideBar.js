@@ -4,21 +4,19 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <header>
-        <h2>Thomas Andersen</h2>
-        <p>Laipu iela 20, Riga, Latvia</p>
+        <h2>Vadym Tarasenko</h2>
+        <p> Voinov Afgancev 16-130, Kamianske, Dnipropetrovsk Oblast, Ukraine</p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About me</h2>
       <p>
-        With over 9 years of professional experience in web development, I enjoy building state-of-art products using Python and its frameworks such as Django, Flask and FastAPI.
+      With over 12 years of experience in web development, I am a dedicated and passionate professional who excels at crafting state-of-the-art digital products.
         <br/>
-        I also mastered JavaScript/TypeScript, as well as their frameworks including Node.js/Express.js for backend and React, Vue and Angular for frontend side.
+        My expertise lies in leveraging cutting-edge technologies to deliver high-quality, scalable, and efficient solutions that meet modern business demands.
         <br/>
-        I'm also proud of having a mature experience working with the cloud platforms such as AWS, Azure, and GCP.
-        <br/>
-        My passion to pursue the perfection has driven me to stand beyond my limits, meeting excellence all the time.
+        To contribute my expertise in web development and cloud computing to create impactful and innovative products, while continuously evolving my skills to stay at the forefront of technological advancements.
       </p>
     </section>
   </section>

@@ -6,7 +6,7 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      "Thomas Andersen's personal website. New York based Stanford ICME graduate, "
+      "Vadym Tarasenko's personal website. New York based Stanford ICME graduate, "
       + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'
     }
   >
